@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "express": "^4.19.2",
+    "otpless-next-js-auth-sdk": "^1.0.10"
+  }
+}
